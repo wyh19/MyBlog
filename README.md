@@ -18,6 +18,7 @@
 ## 技术文章
 * [解决antd的Tree组件check时半联动key值提交与回显的矛盾](https://github.com/wyh19/MyBlog/issues/1)
 * [vscode开发python,读取相对路径文件失败的问题](https://github.com/wyh19/MyBlog/issues/2)
+* [将字符串中关键字高亮显示](https://github.com/wyh19/MyBlog/issues/3)
 
 ## 个人项目
 * [可视化JSON编辑器](https://github.com/wyh19/json-editor)
