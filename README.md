@@ -7,6 +7,7 @@
 * [个人项目](#个人项目)
 ## 读书笔记
 * [《HeadFirst Python》](https://github.com/wyh19/HeadFirstPython)
+* [《Python编程：从入门到实践》](https://github.com/wyh19/PythonCrashCourse)
 * [《正则表达式必知必会》](https://github.com/wyh19/RegExp-js-study)
 * [《学习JavaScript数据结构与算法（第2版）》](https://github.com/wyh19/js-data-structure-algorithm)
 * [《Nodejs实战》《Nodejs硬实战》](https://github.com/wyh19/Node.js-in-Action-book-study)
