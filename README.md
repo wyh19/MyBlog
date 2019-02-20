@@ -12,10 +12,10 @@
 * [《学习JavaScript数据结构与算法（第2版）》](https://github.com/wyh19/js-data-structure-algorithm)
 * [《Nodejs实战》《Nodejs硬实战》](https://github.com/wyh19/Node.js-in-Action-book-study)
 * [《HTML5 Canvas核心技术》](https://github.com/wyh19/canvas)
-* [ typescript 手册指南](https://github.com/wyh19/TypeScript-study)
 
 ## 我的教程
 * [前端教程](https://github.com/wyh19/webfront-course)
+* [ typescript 手册指南](https://github.com/wyh19/TypeScript-study)
 
 ## 技术文章
 * [解决antd的Tree组件check时半联动key值提交与回显的矛盾](https://github.com/wyh19/MyBlog/issues/1)
