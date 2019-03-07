@@ -26,6 +26,6 @@
 ## 个人项目
 * [可视化JSON编辑器](https://github.com/wyh19/json-editor) [【演示地址】](https://wyh19.github.io)
 * [chrome插件](https://github.com/wyh19/my-crx)
-* [React+antd搭建下一代MIS框架](https://github.com/wyh19/next-mis)
+* [React+antd搭建下一代MIS框架](https://github.com/wyh19/next-mis/tree/next-mis-ts)
 * [蓝牙小程序](https://github.com/wyh19/blueteeth-test)
 * [sass-compass脚手架](https://github.com/wyh19/sass-compass-cli)
