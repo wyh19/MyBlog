@@ -5,6 +5,7 @@
 * [我的教程](#我的教程)
 * [技术文章](#技术文章)
 * [个人项目](#个人项目)
+* [背单词](#背单词)
 ## 读书笔记
 * [《HeadFirst Python》](https://github.com/wyh19/HeadFirstPython)
 * [《Python编程：从入门到实践》](https://github.com/wyh19/PythonCrashCourse)
@@ -30,3 +31,6 @@
 * [蓝牙小程序](https://github.com/wyh19/blueteeth-test)
 * [sass-compass脚手架](https://github.com/wyh19/sass-compass-cli)
 * [chrome插件](https://github.com/wyh19/my-crx)
+
+## 背单词
+* [20190319]()
