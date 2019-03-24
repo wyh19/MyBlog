@@ -38,3 +38,4 @@
 * [20190321](https://github.com/wyh19/MyBlog/blob/master/words/20190321.md)
 * [20190322](https://github.com/wyh19/MyBlog/blob/master/words/20190322.md)
 * [20190323](https://github.com/wyh19/MyBlog/blob/master/words/20190323.md)
+* [20190324](https://github.com/wyh19/MyBlog/blob/master/words/20190324.md)
