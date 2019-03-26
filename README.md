@@ -13,6 +13,7 @@
 * [《学习JavaScript数据结构与算法（第2版）》](https://github.com/wyh19/js-data-structure-algorithm)
 * [《Nodejs实战》《Nodejs硬实战》](https://github.com/wyh19/Node.js-in-Action-book-study)
 * [《HTML5 Canvas核心技术》](https://github.com/wyh19/canvas)
+* [《你不知道的js(中)》](https://github.com/wyh19/YouDontKnowJs2)
 
 ## 我的教程
 * [前端教程](https://github.com/wyh19/webfront-course)
@@ -40,3 +41,4 @@
 * [20190323](https://github.com/wyh19/MyBlog/blob/master/words/20190323.md)
 * [20190324](https://github.com/wyh19/MyBlog/blob/master/words/20190324.md)
 * [20190325](https://github.com/wyh19/MyBlog/blob/master/words/20190325.md)
+* [20190326](https://github.com/wyh19/MyBlog/blob/master/words/20190326.md)
