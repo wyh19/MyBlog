@@ -25,6 +25,7 @@
 * [将字符串中关键字高亮显示](https://github.com/wyh19/MyBlog/issues/3)
 * [vscode创建代码段--文件注释模板](https://github.com/wyh19/MyBlog/issues/4)
 * [搭建react-typescript项目](https://github.com/wyh19/MyBlog/issues/5)
+* [vscode使用正则查找和替换](https://github.com/wyh19/MyBlog/issues/8)
 
 ## 个人项目
 * [可视化JSON编辑器](https://github.com/wyh19/json-editor) [【演示地址】](https://wyh19.github.io)
