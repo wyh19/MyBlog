@@ -34,17 +34,3 @@
 * [sass-compass脚手架](https://github.com/wyh19/sass-compass-cli)
 * [chrome插件](https://github.com/wyh19/my-crx)
 
-## 原文阅读
-* [20190319](https://github.com/wyh19/MyBlog/blob/master/words/20190319.md)
-* [20190320](https://github.com/wyh19/MyBlog/blob/master/words/20190320.md)
-* [20190321](https://github.com/wyh19/MyBlog/blob/master/words/20190321.md)
-* [20190322](https://github.com/wyh19/MyBlog/blob/master/words/20190322.md)
-* [20190323](https://github.com/wyh19/MyBlog/blob/master/words/20190323.md)
-* [20190324](https://github.com/wyh19/MyBlog/blob/master/words/20190324.md)
-* [20190325](https://github.com/wyh19/MyBlog/blob/master/words/20190325.md)
-* [20190326](https://github.com/wyh19/MyBlog/blob/master/words/20190326.md)
-* [20190327](https://github.com/wyh19/MyBlog/blob/master/words/20190327.md)
-* [20190328](https://github.com/wyh19/MyBlog/blob/master/words/20190328.md)
-* [20190401](https://github.com/wyh19/MyBlog/blob/master/words/20190401.md)
-* [20190403](https://github.com/wyh19/MyBlog/blob/master/words/20190403.md)
-* [20190409](https://github.com/wyh19/MyBlog/blob/master/words/20190409.md)
